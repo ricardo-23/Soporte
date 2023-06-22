@@ -1,0 +1,33 @@
+{
+  "name": "sistemagestionsoportetecnico-dbp",
+  "version": "1.0.0",
+  "description": "Proyecto final de la asignatura de Desarrollo Basado en Plataformas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "dev": "nodemon src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanOrdonez23/SistemaGestionSoporteTecnico-DBP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryanOrdonez23/SistemaGestionSoporteTecnico-DBP/issues"
+  },
+  "homepage": "https://github.com/BryanOrdonez23/SistemaGestionSoporteTecnico-DBP#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "express-session": "^1.17.2",
+    "mongoose": "^6.1.7",
+    "morgan": "^1.10.0",
+    "node-popup": "^0.1.14"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

@@ -1,2 +1,2 @@
-# Soporte
-Sistema de Gestión de Soporte técnico
+# SistemaGestionSoporteTecnico-DBP
+Proyecto final de la asignatura de Desarrollo Basado en Plataformas.
